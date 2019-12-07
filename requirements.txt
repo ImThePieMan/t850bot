@@ -2,7 +2,6 @@ certifi==2018.1.18
 chardet==3.0.4
 google-parser==0.0.82
 idna==2.6
-<<<<<<< HEAD
 pipenv==11.8.0
 pygame==1.9.3
 pyTelegramBotAPI==3.6.1
@@ -11,7 +10,5 @@ six==1.11.0
 urllib3==1.22
 virtualenv==15.1.0
 virtualenv-clone==0.3.0
-=======
 requests==2.20.0
 urllib3==1.24.2
->>>>>>> 1a6a77eae89231f4d2890affac1168e4910f1ef1
