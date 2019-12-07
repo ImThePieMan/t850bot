@@ -7,6 +7,6 @@ pygame==1.9.3
 pyTelegramBotAPI==3.6.1
 requests==2.20.0
 six==1.11.0
-urllib3==1.22
+urllib3==1.24.2
 virtualenv==15.1.0
 virtualenv-clone==0.3.0
